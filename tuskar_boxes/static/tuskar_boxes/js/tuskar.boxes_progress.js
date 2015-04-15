@@ -1,5 +1,5 @@
 tuskar.boxes_progress = function () {
-  'use static';
+  'use strict';
   var module = {};
 
   module.init = function () {
