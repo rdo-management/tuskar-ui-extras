@@ -1,5 +1,5 @@
 [gerrit]
-host=review.openstack.org
-port=29418
-project=stackforge/tuskar-ui-extras
+host=review.gerrithub.io                  
+port=29418                                
+project=rdo-management/tuskar-ui-extras   
 defaultbranch=mgt-master

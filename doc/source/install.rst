@@ -37,7 +37,6 @@ Go into your Horizon directory::
 
 Install Tuskar UI Extras with all dependencies in your virtual environment::
 
-    tools/with_venv.sh pip install -r ../tuskar-ui-extras/requirements.txt
     tools/with_venv.sh pip install -e ../tuskar-ui-extras/
 
 
